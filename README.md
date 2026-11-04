@@ -1,51 +1,75 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sergeyrenamed-coder/Custom/main/assets/banner.svg" width="100%" alt="SERGEY — independent developer and RNMDTEAM founder" />
+# SERGEY
 
-<br />
+**WEB DEVELOPER** &nbsp; / &nbsp; **GAME DEVELOPMENT** &nbsp; / &nbsp; **RNMDTEAM**
 
-<strong>INDEPENDENT DEVELOPER · RNMDTEAM FOUNDER</strong>
-<br />
-<sub>Building software, games and digital experiences.</sub>
-
-<br /><br />
-
-<img src="https://raw.githubusercontent.com/sergeyrenamed-coder/Custom/main/assets/divider.svg" width="100%" alt="" />
+<sub>Independent developer. Building things from idea to implementation.</sub>
 
 </div>
 
-### 01 / ABOUT
+---
 
-I'm Sergey, an independent developer and founder of **RNMDTEAM** — a creative team exploring game development, voice work and merchandise.
+<table>
+<tr>
+<td width="62%" valign="top">
 
-I enjoy building things end to end: shaping an idea, designing the interface and implementing the logic behind it.
+### ABOUT
 
-### 02 / FOCUS
+I'm Sergey, an independent developer and founder of **RNMDTEAM**.
 
-| AREA | WHAT I WORK ON |
-|:--|:--|
-| **Web** | Interfaces, websites and backend-connected projects |
-| **Game development** | Games, mods and interactive experiments |
-| **Creative work** | RNMDTEAM projects, voice work and visual identity |
+I work on web projects, game-related experiments and tools. I enjoy taking an idea from the first sketch through interface design and implementation.
 
-### 03 / TOOLKIT
+</td>
+<td width="38%" valign="top">
 
-<img src="https://raw.githubusercontent.com/sergeyrenamed-coder/Custom/main/assets/stack.svg" width="100%" alt="Technology stack" />
+### CURRENT FOCUS
 
-<sub>HTML · CSS · JavaScript · Node.js · Fastify · PostgreSQL · Python · Git · Linux · Roblox</sub>
+**01** &nbsp; Web development
 
-### 04 / SELECTED WORK
+**02** &nbsp; Game development
 
-**[Custom — profile assets](https://github.com/sergeyrenamed-coder/Custom)**  
-A small collection of original monochrome SVG graphics used to build this profile.
+**03** &nbsp; Digital tools
 
-**RNMDTEAM**  
-An independent creative team focused on game development, voice work and merchandise.
+**04** &nbsp; RNMDTEAM
+
+</td>
+</tr>
+</table>
+
+---
+
+### SELECTED REPOSITORIES
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[sergeyrenamed-coder](https://github.com/sergeyrenamed-coder/sergeyrenamed-coder)**
+
+<sub>PROFILE / README</sub>
+
+Profile page, its documentation and contribution activity workflow.
+
+</td>
+<td width="50%" valign="top">
+
+**[Custom](https://github.com/sergeyrenamed-coder/Custom)**
+
+<sub>VISUAL ASSETS</sub>
+
+A monochrome SVG asset collection for profile and interface experiments.
+
+</td>
+</tr>
+</table>
+
+### TOOLKIT
+
+`HTML` &nbsp; `CSS` &nbsp; `JavaScript` &nbsp; `Node.js` &nbsp; `Fastify` &nbsp; `PostgreSQL` &nbsp; `Python` &nbsp; `Git` &nbsp; `Linux` &nbsp; `Roblox`
+
+---
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/sergeyrenamed-coder/Custom/main/assets/divider.svg" width="100%" alt="" />
-
-<img src="https://raw.githubusercontent.com/sergeyrenamed-coder/Custom/main/assets/footer.svg" width="100%" alt="RNMDTEAM" />
-
+<sub>RNMDTEAM &nbsp; / &nbsp; INDEPENDENT CREATIVE WORK</sub>
 </div>
