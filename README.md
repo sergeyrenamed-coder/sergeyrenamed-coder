@@ -1,45 +1,43 @@
 <div align="center">
 
-# SERGEY
+<img src="https://raw.githubusercontent.com/sergeyrenamed-coder/Custom/main/assets/mono-banner.svg?v=20261104" width="100%" alt="SERGEY — Web Developer and founder of RNMDTEAM" />
 
-**WEB DEVELOPER** &nbsp; / &nbsp; **GAME DEVELOPMENT** &nbsp; / &nbsp; **RNMDTEAM**
+<br />
 
-<sub>Independent developer. Building things from idea to implementation.</sub>
+<sub>Independent developer · Building software, games and digital experiences.</sub>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/sergeyrenamed-coder/Custom/main/assets/mono-divider.svg?v=20261104" width="100%" alt="" />
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="58%" valign="top">
 
 ### ABOUT
 
 I'm Sergey, an independent developer and founder of **RNMDTEAM**.
 
-I work on web projects, game-related experiments and tools. I enjoy taking an idea from the first sketch through interface design and implementation.
+I work on web projects, game development and digital tools — from the first concept to the finished implementation.
 
 </td>
-<td width="38%" valign="top">
+<td width="42%" valign="top">
 
-### CURRENT FOCUS
-
-**01** &nbsp; Web development
-
-**02** &nbsp; Game development
-
-**03** &nbsp; Digital tools
-
-**04** &nbsp; RNMDTEAM
+<img src="https://raw.githubusercontent.com/sergeyrenamed-coder/Custom/main/assets/mono-about.svg?v=20261104" width="100%" alt="Ideas into software" />
 
 </td>
 </tr>
 </table>
 
----
+### CURRENT FOCUS
 
-### SELECTED REPOSITORIES
+<img src="https://raw.githubusercontent.com/sergeyrenamed-coder/Custom/main/assets/mono-focus.svg?v=20261104" width="100%" alt="Web, games and creative projects" />
+
+### TOOLKIT
+
+<img src="https://raw.githubusercontent.com/sergeyrenamed-coder/Custom/main/assets/mono-stack.svg?v=20261104" width="100%" alt="Technology toolkit" />
+
+### PUBLIC REPOSITORIES
 
 <table>
 <tr>
@@ -47,29 +45,27 @@ I work on web projects, game-related experiments and tools. I enjoy taking an id
 
 **[sergeyrenamed-coder](https://github.com/sergeyrenamed-coder/sergeyrenamed-coder)**
 
-<sub>PROFILE / README</sub>
+<sub>PROFILE / GITHUB README</sub>
 
-Profile page, its documentation and contribution activity workflow.
+Personal profile, presentation and activity automation.
 
 </td>
 <td width="50%" valign="top">
 
 **[Custom](https://github.com/sergeyrenamed-coder/Custom)**
 
-<sub>VISUAL ASSETS</sub>
+<sub>DESIGN / SVG ASSETS</sub>
 
-A monochrome SVG asset collection for profile and interface experiments.
+Monochrome graphic assets and visual experiments.
 
 </td>
 </tr>
 </table>
 
-### TOOLKIT
-
-`HTML` &nbsp; `CSS` &nbsp; `JavaScript` &nbsp; `Node.js` &nbsp; `Fastify` &nbsp; `PostgreSQL` &nbsp; `Python` &nbsp; `Git` &nbsp; `Linux` &nbsp; `Roblox`
-
----
+<img src="https://raw.githubusercontent.com/sergeyrenamed-coder/Custom/main/assets/mono-divider.svg?v=20261104" width="100%" alt="" />
 
 <div align="center">
+
 <sub>RNMDTEAM &nbsp; / &nbsp; INDEPENDENT CREATIVE WORK</sub>
+
 </div>
